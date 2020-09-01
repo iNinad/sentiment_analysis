@@ -4,7 +4,7 @@ A simple web app which interacts with a deployed recurrent neural network perfor
 
 ## Code and associated files 
 
-[Sentiment Analysis Web App](https://github.com/ninad-deshpande/sentiment_analysis) is a notebook and collection of Python files. The result is a deployed RNN performing sentiment analysis on movie reviews complete with publicly accessible API and a simple web page which interacts with the deployed endpoint. This project uses AWS SageMaker.
+[Sentiment Analysis Web App](https://github.com/ninad-deshpande/sentiment_analysis) is a notebook and collection of Python files. The result is a deployed RNN performing sentiment analysis on movie reviews complete with publicly accessible API and a simple web page which interacts with the deployed endpoint on AWS. This project uses AWS SageMaker.
 
 ## Setup Instructions
 
